@@ -36,6 +36,8 @@ public class TestLifeCycleServletXml extends HttpServlet {
 	@Override
 	public void destroy() {
 		System.out.println("in destroy of "+getClass()+" invoked by "+Thread.currentThread());
+		System.out.println("third file change by sumeet");
+		
 	}
 
 	@Override
