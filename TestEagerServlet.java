@@ -1,3 +1,5 @@
+//This is Sumeet Katkade addition
+//all code addition is from the point of view of next release of augest
 package pages;
 
 import java.io.IOException;
