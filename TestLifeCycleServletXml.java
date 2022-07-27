@@ -1,5 +1,8 @@
 //this is chanfe of sep branch of point of veiw
 //facebook autnetication point of veiw
+//intergaration with all aunthetication providers 
+//such as facebook,gmail,yahoo,hotmail.
+
 package pages;
 
 import java.io.IOException;
