@@ -30,6 +30,10 @@ public class TestEagerServlet extends HttpServlet {
 	 */
 	public void destroy() {
 		System.out.println("in destroy of "+getClass()+" thread "+Thread.currentThread());
+		System.out.println("sumeet testing clone);
+		System.out.println("testing the clone");
+		
+
 	}
 
 	/**

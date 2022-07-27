@@ -41,6 +41,9 @@ public class TestLifeCycleServlet extends HttpServlet {
 	@Override
 	public void destroy() {
 		System.out.println("in destroy of "+getClass()+" invoked by "+Thread.currentThread());
+		System.out.println("......");
+		System.out.println("sumeet katkade");
+		
 	}
 
 	@Override
