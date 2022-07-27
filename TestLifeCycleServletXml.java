@@ -1,3 +1,5 @@
+//this is chanfe of sep branch of point of veiw
+//facebook autnetication point of veiw
 package pages;
 
 import java.io.IOException;
@@ -29,6 +31,9 @@ public class TestLifeCycleServletXml extends HttpServlet {
 		{
 			//send resp
 			pw.print("<h4> Hello from Servlets @ "+LocalDateTime.now()+"</h4>");
+			System.out.println("this is the releasesep branch edited file);
+					   
+					   
 		}
 		
 	}
